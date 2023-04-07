@@ -9,5 +9,6 @@
 <body>
     <h1>Hello World</h1>
     <p>Paragraf 1</p>
+    <p>Paragraf 2</p>
 </body>
 </html>
